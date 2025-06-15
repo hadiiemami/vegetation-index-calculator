@@ -17,7 +17,7 @@ GeoTIFF files (e.g., from Sentinel-2 or Landsat)
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/vegetation-index-calculator.git
+Clone the repository:git clone https://github.com/hadiiemami/vegetation-index-calculator.git
 
 
 Create and activate a virtual environment:python -m venv .venv
@@ -48,4 +48,4 @@ pyinstaller --onefile --windowed --collect-all=rasterio --add-data ".venv\Lib\si
 License
   MIT License
 Contact
-  Feel free to open an issue or contact me at your-email@example.com.
+  Feel free to open an issue or contact me at hadiemami1995@example.com.
