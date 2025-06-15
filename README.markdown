@@ -18,7 +18,7 @@
   ## Installation
   1. Clone the repository:
      ```bash
-     git clone https://github.com/your-username/vegetation-index-calculator.git
+     git clone https://github.com/hadiiemami/vegetation-index-calculator.git
      ```
   2. Create and activate a virtual environment:
      ```bash
@@ -53,4 +53,4 @@
   MIT License
 
   ## Contact
-  Feel free to open an issue or contact me at your-email@example.com.
+  Feel free to open an issue or contact me at hadiemami1995@example.com.
